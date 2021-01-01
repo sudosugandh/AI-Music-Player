@@ -16,9 +16,3 @@ Play and Pause music using voice enabled commands.
 Play Next and Previous Song using voice enabled commands.
 
 and many other things.
-<p float="middle">
-  <img src="screenshot1.png" width="100" />
-  <img src="screenshot2.png" width="100" />
-  <img src="screenshot3.png" width="100" />
-  <img src="screenshot4.png" width="100" />
-</p>
