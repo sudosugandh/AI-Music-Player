@@ -1,18 +1,12 @@
 # AI-Music-Player
-you can play the song using play, pause, next button, also via voice to say play song, pause song, play the next song 
+You can play songs using the play, pause, and next buttons, as well as via voice commands like "play song," "pause song," and "play the next song."
 
-music player application using android studio with voice enabled features such as controlling the entire app using voice enabled commands.
+The music player application, developed using Android Studio, incorporates voice-enabled features for controlling the entire app through voice commands.
 
-Features......
+Features include:
 
-Music Player App using Voice Enabled Commands.
-
-convert Speech to Text using Android Studio.
-
-Read audio files from phone memory.
-
-Play and Pause music using voice enabled commands.
-
-Play Next and Previous Song using voice enabled commands.
-
-and many other things.
+- Music player app with voice-enabled commands.
+- Speech-to-text conversion implemented using Android Studio.
+- Ability to read audio files from the phone's memory.
+- Playback control with voice commands for playing and pausing music.
+- Voice commands for playing the next and previous songs, among other functionalities.
